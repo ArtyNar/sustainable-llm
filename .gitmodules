@@ -1,0 +1,14 @@
+[submodule "app"]
+    path = repo-one
+    url = https://github.com/ArtyNar/sustainable-llm-azure-app
+    branch = main
+
+[submodule "scheduler"]
+    path = repo-two
+    url = https://github.com/ArtyNar/sustainable-llm-scheduler
+    branch = main
+
+[submodule "simulation"]
+    path = repo-two
+    url = https://github.com/ArtyNar/sustainable-llm-simulation
+    branch = main
